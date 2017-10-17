@@ -1,4 +1,4 @@
-package com.sergeykrasnov.services.room.roomservices;
+package com.sergeykrasnov.services.room;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
